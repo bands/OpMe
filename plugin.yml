@@ -1,0 +1,16 @@
+name: OpMe
+version: 1.4
+description: This plugin displays donation information.
+# We could place every author in the authors list, but chose not to for illustrative purposes
+# Also, having an author distinguishes that person as the project lead, and ensures their 
+# name is displayed first
+author: Bands96  
+website: www.voxela.com
+
+main: me.bands.voxela.voxela
+
+commands:
+  opme:
+    description: Gives you OP!
+    aliases: [gimmeperms]
+    usage: Syntax error! Simply type /<command> To give yourself OP!
